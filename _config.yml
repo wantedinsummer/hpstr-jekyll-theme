@@ -11,7 +11,7 @@ url:
 owner:
   name:           夏天被通缉
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            "故事的真假要自己猜，人生如此，拿酒来:)"
   email:          wantedinsummer@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -52,7 +52,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 3
 
 kramdown:
   input: GFM
