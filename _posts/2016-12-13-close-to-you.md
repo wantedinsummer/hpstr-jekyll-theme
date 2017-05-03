@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Post with a Background Image
+title: 也许放弃，才能靠近你 | 酒馆
 description: "Sample post with a background image CSS override."
-tags: [sample post]
-image:
-  background: triangular.png
+tags: [酒馆]
+image: background: triangular.png
 ---
 
 他走进屋里说：“最近过的有点糟糕啊，不如去自驾游吧”。他身上背着的行李还没来得及放下，风尘仆仆的站在门口，距离我上一次见到他已经过去了四个月，也来不及多想什么，我10岁，他27岁，就这样上了路。
