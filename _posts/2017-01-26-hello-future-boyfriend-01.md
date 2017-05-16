@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 未来男友见信好
+title: 想你不是因为孤单 | 未来男友见信好
 description: "Sample post with a background image CSS override."
 tags: [见信好]
 image: 
