@@ -2,7 +2,7 @@
 layout: post
 title: 未来男友见信好
 description: "Sample post with a background image CSS override."
-tags:
+tags: [见信好]
 image: 
   background: triangular.png
 ---
