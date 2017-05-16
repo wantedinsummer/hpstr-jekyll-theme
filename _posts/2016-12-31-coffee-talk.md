@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 想聊聊第三者这件事 | 酒馆
+title: 等一个人咖啡 | 酒馆
 description: "Sample post with a background image CSS override."
 tags: [酒馆]
 image: 
