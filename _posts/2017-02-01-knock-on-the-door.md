@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 下次别再来敲我家的门了，极度开心的时候也不行。
+title: 下次别再来敲我家的门了，极度开心的时候也不行
 description: "Sample post with a background image CSS override."
 tags: 
 image: 
