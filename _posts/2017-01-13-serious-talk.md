@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 正儿八经的聊聊天 | 日常
+title: 正儿八经地聊聊天 | 日常
 description: "Sample post with a background image CSS override."
 tags: [日常]
 image: 
